@@ -1,4 +1,2 @@
 # sudoku-solver
-Backtracking sudoku solver written in Haskell
-
-TODO: Testing
+Automated tests yet to be implemented
